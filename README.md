@@ -1,1 +1,1 @@
-# EZG_VePAP
+# MedScore
